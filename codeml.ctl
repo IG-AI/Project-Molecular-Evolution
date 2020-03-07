@@ -1,6 +1,6 @@
-      seqfile = Chimpanzee_OR2W1_orthologues.phy * sequence data filename
-     treefile = chimpanzee_or2w1_orthologues_phy_phyml_tree.trees     * tree structure file name
-      outfile = chimpanzee_OR2W1_orthologues_branch_site_adv2.txt           * main result file name
+      seqfile = Chimpanzee_OR2W1_orthologues_alt.phy * sequence data filename
+     treefile = chimpanzee_or2w1_orthologues_alt.trees     * tree structure file name
+      outfile = chimpanzee_OR2W1_orthologues_alt_branch_site_adv.txt           * main result file name
 
         noisy = 9  * 0,1,2,3,9: how much rubbish on the screen
       verbose = 1  * 0: concise; 1: detailed, 2: too much
